@@ -1,3 +1,4 @@
+````markdown
 # Portfólio Desktop | Elieuton Lemos Jr.
 
 ![Badge Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)
@@ -36,6 +37,7 @@ O objetivo foi demonstrar competências em **Desenvolvimento de Software**, cria
 Você precisa ter o [Python](https://www.python.org/downloads/) instalado em sua máquina.
 
 ### Instalação
+
 1. Clone o repositório:
    ```bash
    git clone [https://github.com/lemosjr/seu-repo-portfolio-desktop.git](https://github.com/lemosjr/seu-repo-portfolio-desktop.git)
@@ -80,3 +82,6 @@ O código foi organizado para simular uma aplicação escalável:
 -----
 
 Desenvolvido com 🐍 e 💙 por Elieuton Lemos Jr.
+
+```
+```
