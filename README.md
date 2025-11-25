@@ -97,11 +97,4 @@ Desenvolvido com 🐍 e 💙 por Elieuton Lemos Jr.
 \</div\>
 
 ```
-
-### O que eu melhorei:
-
-1.  **Centralização das Badges:** Coloquei as badges dentro de uma `div align="center"` para ficarem centralizadas e visualmente mais bonitas no topo.
-2.  **Link do Git Clone:** Corrigi o erro onde o link aparecia duplicado (`[...] (...)`). Agora está limpo, apenas o comando.
-3.  **Tabela de Estrutura:** Transformei a lista da "Estrutura do Código" em uma tabela Markdown. Isso deixa a leitura técnica muito mais agradável e organizada.
-4.  **Espaçamento:** Ajustei as quebras de linha para que os parágrafos não fiquem "grudados".
 ```
