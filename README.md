@@ -1,4 +1,3 @@
-````markdown
 # Portfólio Desktop | Elieuton Lemos Jr.
 
 ![Python Badge](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white) ![CustomTkinter Badge](https://img.shields.io/badge/GUI-CustomTkinter-blueviolet?style=for-the-badge) ![Status Badge](http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge)
@@ -87,5 +86,4 @@ python portfolio.py
 
 Desenvolvido com 🐍 e 💙 por [Elieuton Lemos Jr.](https://www.google.com/search?q=https://github.com/lemosjr)
 
-```
 ```
