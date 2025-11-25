@@ -85,13 +85,6 @@ python portfolio.py
 
 -----
 
-\<div align="center"\>
-Desenvolvido com 🐍 e 💙 por Elieuton Lemos Jr.
-\</div\>
-
-```
-```
-
 Desenvolvido com 🐍 e 💙 por [Elieuton Lemos Jr.](https://www.google.com/search?q=https://github.com/lemosjr)
 
 ```
