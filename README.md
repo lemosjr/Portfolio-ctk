@@ -2,6 +2,26 @@
 
 ![Python Badge](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white) ![CustomTkinter Badge](https://img.shields.io/badge/GUI-CustomTkinter-blueviolet?style=for-the-badge) ![Status Badge](http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge)
 
+<div align="center">
+  <img src="assets/portfolio1.png" width="700px" />
+</div>
+<br>
+
+<div align="center">
+  <img src="assets/portfolio2.png" width="700px" />
+</div>
+<br>
+
+<div align="center">
+  <img src="assets/portfolio3.png" width="700px" />
+</div>
+<br>
+
+<div align="center">
+  <img src="assets/portfolio4.png" width="700px" />
+</div>
+<br>
+
 ## 🖥️ Sobre o Projeto
 
 Este projeto é uma aplicação **Desktop** desenvolvida em Python que funciona como um portfólio interativo.
